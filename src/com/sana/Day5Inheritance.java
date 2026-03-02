@@ -7,7 +7,6 @@ public class Day5Inheritance {
 		Fish shark = new Fish();
 		shark.eat();
 			
-		
 	}
 
 }
